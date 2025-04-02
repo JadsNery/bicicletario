@@ -1,0 +1,21 @@
+/bicicletario-app
+  /frontend
+    /public
+    /src
+      /components
+      /pages
+      /assets
+      App.js
+      index.js
+  /backend
+    /controllers
+    /models
+    /routes
+    /utils
+    server.js
+  /database
+    migrations/
+    seeds/
+  /tests
+  README.md
+  package.json
